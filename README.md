@@ -15,7 +15,9 @@
 - `insights_summary.txt` – Key takeaways from the analysis
 
 ## 📸 Screenshots
-_Add screenshots of your dashboard here_
+![image](https://github.com/user-attachments/assets/41c6e3df-3bb5-455e-8fcc-e87bffb388c3)
+![image](https://github.com/user-attachments/assets/67acdecd-d2fc-4da8-9393-a3c81068e024)
+
 
 ## 📈 Tools Used
 - Power BI
